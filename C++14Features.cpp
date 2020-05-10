@@ -1,5 +1,5 @@
 // C++14.cpp : 
-#include "../stdc++.h"
+#include "stdc++.h"
 
 #define LOG(x) cout << x << endl
 
